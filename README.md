@@ -1,0 +1,2 @@
+# SOVIC
+Smart Ovitrap Counter
